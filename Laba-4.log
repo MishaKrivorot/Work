@@ -1,0 +1,84 @@
+11/1/2024 10:44:16 AM: Процес notepad.exe завершено.
+11/1/2024 10:44:30 AM: Процес notepad.exe завершено.
+11/1/2024 10:44:31 AM: Процес notepad.exe завершено.
+11/1/2024 10:44:31 AM: Процес notepad.exe завершено.
+11/1/2024 10:44:36 AM: Процес notepad.exe завершено.
+11/1/2024 10:44:45 AM: <Request-1>*</Request-1>
+11/1/2024 10:44:45 AM: Дані успішно зчитані з реєстру.
+11/1/2024 10:44:48 AM: <Request-2>Антонюк</Request-2>
+11/1/2024 10:44:48 AM: Дані успішно зчитані з реєстру.
+11/1/2024 10:53:10 AM: Service is starting...
+11/1/2024 10:53:10 AM: Monitoring process notepad.exe started.
+11/1/2024 10:53:12 AM: Service is stopping...
+11/1/2024 10:58:05 AM: Service is starting...
+11/1/2024 10:58:05 AM: Monitoring process notepad.exe started.
+11/1/2024 10:58:23 AM: Process notepad.exe has been terminated.
+11/1/2024 10:58:29 AM: <Request-1>*</Request-1>
+11/1/2024 10:58:29 AM: Registry data read successfully.
+11/1/2024 10:58:30 AM: <Request-2>Агуренко</Request-2>
+11/1/2024 10:58:30 AM: Registry data read successfully.
+11/1/2024 10:58:50 AM: Service is stopping...
+11/1/2024 11:05:25 AM: Service is starting...
+11/1/2024 11:05:25 AM: Service started successfully.
+11/1/2024 11:05:26 AM: Monitoring process notepad.exe started.
+11/1/2024 11:05:36 AM: <Request-1>*</Request-1>
+11/1/2024 11:05:36 AM: Registry data read successfully.
+11/1/2024 11:05:37 AM: <Request-2>Антонюк</Request-2>
+11/1/2024 11:05:37 AM: Registry data read successfully.
+11/1/2024 11:05:44 AM: Service is stopping...
+11/1/2024 11:05:49 AM: Service stopped successfully.
+11/1/2024 11:06:02 AM: Service is starting...
+11/1/2024 11:06:02 AM: Service started successfully.
+11/1/2024 11:06:02 AM: Monitoring process notepad.exe started.
+11/1/2024 11:06:11 AM: Process notepad.exe has been terminated.
+11/1/2024 11:06:13 AM: Process notepad.exe has been terminated.
+11/1/2024 11:06:19 AM: <Request-1>*</Request-1>
+11/1/2024 11:06:19 AM: Registry data read successfully.
+11/1/2024 11:06:22 AM: <Request-1>*ко</Request-1>
+11/1/2024 11:06:22 AM: Registry data read successfully.
+11/1/2024 11:06:28 AM: Process notepad.exe has been terminated.
+11/1/2024 11:06:30 AM: Process notepad.exe has been terminated.
+11/1/2024 11:06:33 AM: <Request-2>Агуренко</Request-2>
+11/1/2024 11:06:33 AM: Registry data read successfully.
+11/1/2024 11:06:35 AM: <Request-1>*ко</Request-1>
+11/1/2024 11:06:35 AM: Registry data read successfully.
+11/1/2024 11:06:39 AM: <Request-1>*</Request-1>
+11/1/2024 11:06:39 AM: Registry data read successfully.
+11/1/2024 11:06:47 AM: <Request-1>В*</Request-1>
+11/1/2024 11:06:47 AM: Registry data read successfully.
+11/1/2024 11:06:51 AM: <Request-2>Васильєв</Request-2>
+11/1/2024 11:06:51 AM: Registry data read successfully.
+11/1/2024 11:06:53 AM: <Request-2>Валюх</Request-2>
+11/1/2024 11:06:53 AM: Registry data read successfully.
+11/1/2024 11:06:56 AM: Process notepad.exe has been terminated.
+11/1/2024 11:07:09 AM: Service is stopping...
+11/1/2024 11:07:14 AM: Service stopped successfully.
+11/1/2024 11:10:16 AM: Service is starting...
+11/1/2024 11:10:16 AM: Service started successfully.
+11/1/2024 11:10:16 AM: Monitoring process notepad.exe started.
+11/1/2024 11:10:21 AM: <Request-1>*</Request-1>
+11/1/2024 11:10:21 AM: Registry data read successfully.
+11/1/2024 11:10:23 AM: <Request-2>Бойчук</Request-2>
+11/1/2024 11:10:23 AM: Registry data read successfully.
+11/1/2024 11:25:40 AM: <Request-1>*</Request-1>
+11/1/2024 11:25:40 AM: Registry data read successfully.
+11/1/2024 11:27:15 AM: <Request-2>Бобаль</Request-2>
+11/1/2024 11:27:15 AM: Registry data read successfully.
+11/1/2024 11:27:33 AM: <Request-1>*ов</Request-1>
+11/1/2024 11:27:33 AM: Registry data read successfully.
+11/1/2024 11:27:38 AM: <Request-2>Бутаков</Request-2>
+11/1/2024 11:27:38 AM: Registry data read successfully.
+11/1/2024 11:28:16 AM: Service is stopping...
+11/1/2024 11:28:21 AM: Service stopped successfully.
+11/1/2024 11:34:53 AM: Service is starting...
+11/1/2024 11:34:53 AM: Service started successfully.
+11/1/2024 11:34:53 AM: Monitoring process notepad.exe started.
+11/1/2024 11:35:26 AM: Process notepad.exe has been terminated.
+11/1/2024 11:35:34 AM: Process notepad.exe has been terminated.
+11/1/2024 11:35:45 AM: Process notepad.exe has been terminated.
+11/1/2024 11:36:35 AM: <Request-1>*</Request-1>
+11/1/2024 11:36:35 AM: Registry data read successfully.
+11/1/2024 11:37:14 AM: <Request-1>*</Request-1>
+11/1/2024 11:37:14 AM: Registry data read successfully.
+11/1/2024 11:37:28 AM: Service is stopping...
+11/1/2024 11:37:33 AM: Service stopped successfully.

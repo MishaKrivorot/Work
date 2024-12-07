@@ -1,0 +1,13 @@
+﻿Installing assembly 'C:\WORK\LAB4\TCP_SERVER\bin\Debug\TCP_SERVER.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\WORK\LAB4\TCP_SERVER\bin\Debug\TCP_SERVER.exe
+   logfile = C:\WORK\LAB4\TCP_SERVER\bin\Debug\TCP_SERVER.InstallLog
+Installing service TCP-SERVER...
+Service TCP-SERVER has been successfully installed.
+Creating EventLog source TCP-SERVER in log Application...
+Committing assembly 'C:\WORK\LAB4\TCP_SERVER\bin\Debug\TCP_SERVER.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\WORK\LAB4\TCP_SERVER\bin\Debug\TCP_SERVER.exe
+   logfile = C:\WORK\LAB4\TCP_SERVER\bin\Debug\TCP_SERVER.InstallLog

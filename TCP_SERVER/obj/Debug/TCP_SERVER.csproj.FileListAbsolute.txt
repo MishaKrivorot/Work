@@ -1,0 +1,9 @@
+C:\WORK\LAB4\TCP_SERVER\bin\Debug\TCP_SERVER.exe.config
+C:\WORK\LAB4\TCP_SERVER\bin\Debug\TCP_SERVER.exe
+C:\WORK\LAB4\TCP_SERVER\bin\Debug\TCP_SERVER.pdb
+C:\WORK\LAB4\TCP_SERVER\obj\Debug\TCP_SERVER.csproj.AssemblyReference.cache
+C:\WORK\LAB4\TCP_SERVER\obj\Debug\TCP_SERVER.ProjectInstaller.resources
+C:\WORK\LAB4\TCP_SERVER\obj\Debug\TCP_SERVER.csproj.GenerateResource.cache
+C:\WORK\LAB4\TCP_SERVER\obj\Debug\TCP_SERVER.csproj.CoreCompileInputs.cache
+C:\WORK\LAB4\TCP_SERVER\obj\Debug\TCP_SERVER.exe
+C:\WORK\LAB4\TCP_SERVER\obj\Debug\TCP_SERVER.pdb
