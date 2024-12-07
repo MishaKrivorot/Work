@@ -1,1 +1,0 @@
-The task was completed to create a database model for the authentication system in ERwin and a corresponding script for implementing the model, which includes creating tables, views, procedures, and triggers in sqldeveloper.
