@@ -1,0 +1,9 @@
+C:\WORK\LAB3\WindowsService1\bin\Debug\WindowsService1.exe.config
+C:\WORK\LAB3\WindowsService1\bin\Debug\WindowsService1.exe
+C:\WORK\LAB3\WindowsService1\bin\Debug\WindowsService1.pdb
+C:\WORK\LAB3\WindowsService1\obj\Debug\WindowsService1.csproj.AssemblyReference.cache
+C:\WORK\LAB3\WindowsService1\obj\Debug\WindowsService1.csproj.CoreCompileInputs.cache
+C:\WORK\LAB3\WindowsService1\obj\Debug\WindowsService1.exe
+C:\WORK\LAB3\WindowsService1\obj\Debug\WindowsService1.pdb
+C:\WORK\LAB3\WindowsService1\obj\Debug\WindowsService1.ProjectInstaller.resources
+C:\WORK\LAB3\WindowsService1\obj\Debug\WindowsService1.csproj.GenerateResource.cache

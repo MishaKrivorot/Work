@@ -1,0 +1,15 @@
+[Unit]
+Description=KI-Kryvorot
+After=network.target
+
+[Service]
+Type=simple
+WorkingDirectory=/home/misha/KI-Kryvorot
+User=root
+Group=root
+OOMScoreAdjust=-100
+ExecStart=/home/misha/KI-Kryvorot/KI-Kryvorot.o
+Restart=always
+RestartSec=60
+[Install]
+WantedBy=default.target
